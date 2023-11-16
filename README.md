@@ -4,19 +4,33 @@ This repository is used to develop a repository template that can be used when c
 
 Here are suggested sections you might want to consider adding to your repositories READMEs: 
 
-### Title capturing the essence of the project
+### Title 
 
-### List of current contributors
+capturing the essence of the project
 
-### A short explanation of the goal / purpose of this repository
+### Current contributors
 
-### How/what to install
+- 
 
-### File structure and where to start
+### Goal / purpose 
 
-### A quick demo on how to use the content (can be a link to another document as well)
+A short explanation of the goal / purpose of this repository. Can link to further information hosted somewhere else
 
-### What to do if a bug is spotted
+### Installation guidelines
+
+How/what to install
+
+### File structure
+
+Describe folder content and where to start
+
+### Demo
+
+A quick demo on how to use the content (can be a link to another document as well)
+
+### Bug reporting
+
+What to do if a bug is spotted, for example, link to GitHub issues of the repository
 
 ### How to contribute
 
